@@ -28,4 +28,4 @@ Distributed under the MIT License.
 
 ## Do You Like It? 
 
-**[Support my team on Patreon](https://www.patreon.com/c/provereno)**
+**[Support the team on Patreon](https://www.patreon.com/c/provereno)**
