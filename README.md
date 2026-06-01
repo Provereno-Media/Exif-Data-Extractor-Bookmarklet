@@ -2,6 +2,10 @@
 
 This bookmarklet scans all images on the current webpage and allows you to check their EXIF metadata easily using the service https://exif.tools/.
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)
+![Browser](https://img.shields.io/badge/platform-Browser-green.svg)
+
 ## How to Use
 
 1. Add a new bookmark in your browser.
