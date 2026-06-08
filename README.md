@@ -15,6 +15,8 @@ This bookmarklet scans all images on the current webpage and allows you to check
 5. Click the bookmarklet, a panel will appear with image previews and links to check their EXIF metadata.
 6. **Unexpected Bonus**: This bookmarklet can help you extract Facebook Cover Photos from non-public profiles
 
+OR [CLICK HERE](https://www.perplexity.ai/computer/a/d7a2e420-88a4-57e1-bea9-64381695cbd3)
+
 ## Security and Limitations
 
 * **URL Transmission:** The bookmarklet sends the image URLs to a third-party service (exif.regex.info). The content of your interaction with the site itself is not transmitted anywhere.
